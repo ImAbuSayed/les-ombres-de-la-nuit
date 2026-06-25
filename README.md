@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-ombres-de-la-nuit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Les Ombres De La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-ombres-de-la-nuit/) |
+| **Get License** | [Official Music Licensing for Les Ombres De La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-ombres-de-la-nuit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans l'ombre de la ville, je n'vois plus que toi, baby
+> Ton parfum me rend fou, sous les néons de Paris
+> Viens coller ton corps, laisse le groove faire la loi
+> Tonight is ours, je veux te garder près de moi
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
