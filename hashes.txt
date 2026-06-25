@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Les Ombres De La Nuit
+
+This log tracks the cryptographic history and versioning for the song **Les Ombres De La Nuit** (les-ombres-de-la-nuit).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T02:29:00.927854 | `v1` | `9f0672b66c866d317e2c4c46c307c06d196331aefc7a282c5e09fd1bfaeae74a` | `65266af376f002d559a9fd7614225ba7bf9d4f5f163475254fa70483619ebaf1` | `2026-06-26_les-ombres-de-la-nuit-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

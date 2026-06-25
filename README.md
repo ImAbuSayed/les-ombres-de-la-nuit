@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-ombres-de-la-nuit/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Ombres De La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-ombres-de-la-nuit/) |
+| **Get License** | [License this song: Les Ombres De La Nuit](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-ombres-de-la-nuit/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9f0672b66c866d317e2c4c46c307c06d196331aefc7a282c5e09fd1bfaeae74a` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
